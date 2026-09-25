@@ -7,4 +7,4 @@ Azat Hallyyev
 
 Istanbul Gelisim University (IGU) - Management Information Systems (Sophomore)
 
-Data Analytics & Software Development
+Data Analytics & Software Development.
